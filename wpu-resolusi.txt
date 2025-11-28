@@ -1,4 +1,6 @@
 WPU RESOLUSI
--Konsisten untuk membuat konten2x
--Membuat platform untuk pengelolaan video
--Membuat forum Diskusi
+- Konsisten untuk membuat konten2x
+- Membuat platform untuk pengelolaan video
+- Membuat forum Diskusi
+- Membuat merch shop
+- Kolaborasi dengan lebih banyak expert
